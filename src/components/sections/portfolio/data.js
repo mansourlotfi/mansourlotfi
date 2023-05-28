@@ -5,7 +5,7 @@ const data = [
     image: "/assets/project1.jpg",
     title: "Project Title One (UIUX)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
+    demo: "https://github.com/mansourlotfi",
     github: "https://github.com/egattor",
   },
   {
@@ -14,7 +14,7 @@ const data = [
     image: "/assets/project2.jpg",
     title: "Project Title Two (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
+    demo: "https://github.com/mansourlotfi",
     github: "https://github.com/egattor",
   },
   {
@@ -23,7 +23,7 @@ const data = [
     image: "/assets/project3.jpg",
     title: "Project Title Three (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
+    demo: "https://github.com/mansourlotfi",
     github: "https://github.com/egattor",
   },
   {
@@ -32,7 +32,7 @@ const data = [
     image: "/assets/project4.jpg",
     title: "Project Title Four (UIUX)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
+    demo: "https://github.com/mansourlotfi",
     github: "https://github.com/egattor",
   },
   {
@@ -41,7 +41,7 @@ const data = [
     image: "/assets/project5.jpg",
     title: "Project Title Five (UIUX)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
-    demo: "http://egatortutorials.com",
+    demo: "https://github.com/mansourlotfi",
     github: "https://github.com/egattor",
   },
   {
@@ -50,7 +50,7 @@ const data = [
     image: "/assets/project6.jpg",
     title: "Project Title Six (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
+    demo: "https://github.com/mansourlotfi",
     github: "https://github.com/egattor",
   },
   {
@@ -59,7 +59,7 @@ const data = [
     image: "/assets/project7.jpg",
     title: "Project Title Seven (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
+    demo: "https://github.com/mansourlotfi",
     github: "https://github.com/egattor",
   },
   {
@@ -68,7 +68,7 @@ const data = [
     image: "/assets/project8.jpg",
     title: "Project Title Eight (Backend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
+    demo: "https://github.com/mansourlotfi",
     github: "https://github.com/egattor",
   },
   {
@@ -77,7 +77,7 @@ const data = [
     image: "/assets/project9.jpg",
     title: "Project Title Nine (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    demo: "http://egatortutorials.com",
+    demo: "https://github.com/mansourlotfi",
     github: "https://github.com/egattor",
   },
 ];
