@@ -1,13 +1,13 @@
 import { HiOutlineMail } from "react-icons/hi";
-import { RiMessengerLine } from "react-icons/ri";
+import { FaTelegram } from "react-icons/fa";
 import { FaWhatsapp } from "react-icons/fa";
 
 const data = [
   { id: 1, icon: <HiOutlineMail />, link: "mailto:mansourlotfi@gmail.com" },
   {
     id: 2,
-    icon: <RiMessengerLine />,
-    link: "https://www.messenger.com/t/100087217880007",
+    icon: <FaTelegram />,
+    link: "https://telegram.me/mansourlotfi",
   },
   { id: 3, icon: <FaWhatsapp />, link: "https://wa.me/+989113360715" },
 ];

@@ -31,12 +31,6 @@ const About = () => {
             ))}
           </div>
           <p>
-            I love creating websites and web apps that my clients adore. With
-            over 7 years of experience in the web development field and more
-            than 10 happy clients around the world, I&apos;m always motivated to
-            do more!
-          </p>
-          <p>
             Hi, I&apos;m Mansour Lotfi from Tehran, Iran. I&apos;m a full-stack
             web developer and a master degree student in Computer Science. I can
             build you a website or web app that meets your business needs, with
