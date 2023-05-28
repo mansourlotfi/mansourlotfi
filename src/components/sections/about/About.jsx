@@ -1,5 +1,4 @@
 import Image from "next/image";
-import AboutImage from "@/assets/about.jpg";
 // import CV from "/cv.pdf";
 import { HiDownload } from "react-icons/hi";
 import data from "./data";
@@ -12,7 +11,12 @@ const About = () => {
       <div className="container about__container">
         <div className="about__left">
           <div className="about__portrait">
-            <Image src={AboutImage} alt="About Image" />
+            <Image
+              src="/about.jpg"
+              alt="About Image"
+              height={600}
+              width={200}
+            />
           </div>
         </div>
         <div className="about__right">

@@ -11,6 +11,8 @@ const Testimonial = ({ testimonial }) => {
             src={testimonial.avatar}
             alt="Testimonial Avatar"
             className="testimonial__client-avatar"
+            width={40}
+            height={40}
           />
         </div>
         <div className="testimonial__client-details">

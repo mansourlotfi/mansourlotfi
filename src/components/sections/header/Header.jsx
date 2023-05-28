@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { useEffect } from "react";
-import HeaderImage from "@/assets/header.jpg";
 import data from "./data";
 import AOS from "aos";
 import TypeWriter from "./TypeWriter";
@@ -16,7 +15,7 @@ const Header = () => {
     <header id="header">
       <div className="container header__container">
         <div className="header__profile" data-aos="fade-in">
-          <Image src={HeaderImage} alt="Header Portait" fill />
+          <Image src="/header.jpg" alt="Header Portait" fill />
         </div>
         <h3 data-aos="fade-up">Mansour Lotfi</h3>
         <TypeWriter />

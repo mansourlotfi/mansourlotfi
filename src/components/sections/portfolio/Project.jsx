@@ -9,6 +9,8 @@ const Project = ({ project }) => {
           src={project.image}
           alt="Portfolio Project Image"
           className="portfolio__project-image"
+          width={40}
+          height={40}
         />
       </div>
       <h4>{project.title}</h4>

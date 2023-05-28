@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Logo from "@/assets/logo.jpg";
 import data from "./data";
 import { IoIosColorPalette } from "react-icons/io";
 import { useModalContext } from "@/context/modal-context";
@@ -12,7 +11,13 @@ const Navbar = () => {
     <nav>
       <div className="container nav__container">
         <a href="" className="nav__logo">
-          <Image src={Logo} alt="Logo" className="nav__logo" />
+          <Image
+            src={"/logo.jpg"}
+            alt="Logo"
+            width={40}
+            height={40}
+            className="nav__logo"
+          />
         </a>
         <ul className="nav__menu">
           {data.map((item) => (

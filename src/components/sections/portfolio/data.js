@@ -1,18 +1,8 @@
-import Image1 from "@/assets/project1.jpg";
-import Image2 from "@/assets/project2.jpg";
-import Image3 from "@/assets/project3.jpg";
-import Image4 from "@/assets/project4.jpg";
-import Image5 from "@/assets/project5.jpg";
-import Image6 from "@/assets/project6.jpg";
-import Image7 from "@/assets/project7.jpg";
-import Image8 from "@/assets/project8.jpg";
-import Image9 from "@/assets/project9.jpg";
-
 const data = [
   {
     id: 1,
     category: "uiux",
-    image: Image1,
+    image: "/project1.jpg",
     title: "Project Title One (UIUX)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
@@ -21,7 +11,7 @@ const data = [
   {
     id: 2,
     category: "frontend",
-    image: Image2,
+    image: "/project2.jpg",
     title: "Project Title Two (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
@@ -30,7 +20,7 @@ const data = [
   {
     id: 3,
     category: "frontend",
-    image: Image3,
+    image: "/project3.jpg",
     title: "Project Title Three (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
@@ -39,7 +29,7 @@ const data = [
   {
     id: 4,
     category: "uiux",
-    image: Image4,
+    image: "/project4.jpg",
     title: "Project Title Four (UIUX)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
@@ -48,7 +38,7 @@ const data = [
   {
     id: 5,
     category: "uiux",
-    image: Image5,
+    image: "/project5.jpg",
     title: "Project Title Five (UIUX)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
     demo: "http://egatortutorials.com",
@@ -57,7 +47,7 @@ const data = [
   {
     id: 6,
     category: "frontend",
-    image: Image6,
+    image: "/project6.jpg",
     title: "Project Title Six (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
@@ -66,7 +56,7 @@ const data = [
   {
     id: 7,
     category: "frontend",
-    image: Image7,
+    image: "/project7.jpg",
     title: "Project Title Seven (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
@@ -75,7 +65,7 @@ const data = [
   {
     id: 8,
     category: "backend",
-    image: Image8,
+    image: "/project8.jpg",
     title: "Project Title Eight (Backend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
@@ -84,7 +74,7 @@ const data = [
   {
     id: 9,
     category: "frontend",
-    image: Image9,
+    image: "/project9.jpg",
     title: "Project Title Nine (Frontend)",
     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
     demo: "http://egatortutorials.com",
