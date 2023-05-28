@@ -12,7 +12,7 @@ const About = () => {
         <div className="about__left">
           <div className="about__portrait">
             <Image
-              src="/about.jpg"
+              src="/assets/about.jpg"
               alt="About Image"
               height={600}
               width={200}
@@ -44,7 +44,11 @@ const About = () => {
             smoothly online. Contact me today with your project details and
             let&apos;s get to work! You can see my resume below!
           </p>
-          <a href={"/mansour lotfi.pdf"} download className="btn primary">
+          <a
+            href={"/assets/mansour lotfi.pdf"}
+            download
+            className="btn primary"
+          >
             Download CV <HiDownload />
           </a>
         </div>

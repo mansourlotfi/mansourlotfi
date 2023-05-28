@@ -12,7 +12,7 @@ const Navbar = () => {
       <div className="container nav__container">
         <a href="" className="nav__logo">
           <Image
-            src={"/logo.jpg"}
+            src={"/assets/logo.jpg"}
             alt="Logo"
             width={40}
             height={40}
