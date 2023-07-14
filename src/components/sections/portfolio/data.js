@@ -56,7 +56,7 @@ const dataArray = [
   {
     id: 7,
     category: "FullStack",
-    image: "/assets/p7.jpeg",
+    image: "/assets/p7.jpg",
     title: "Blush Gallery (FullStack)",
     desc: "Blush Gallery, an online store that sells high-quality and affordable cosmetics from various brands",
     demo: "https://www.blushgallery.com",
