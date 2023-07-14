@@ -1,4 +1,4 @@
-const data = [
+const dataArray = [
   {
     id: 1,
     category: "frontend",
@@ -26,15 +26,15 @@ const data = [
     demo: "https://kishroabi.com/en",
     github: "https://github.com/mansourlotfi",
   },
-  {
-    id: 4,
-    category: "frontend",
-    image: "/assets/project4.jpg",
-    title: "Dr Tabibi (Frontend)",
-    desc: "Professor of urology department of Shahid Beheshti University of Medical Sciences",
-    demo: "http://www.dr-alitabibi.ir",
-    github: "https://github.com/mansourlotfi",
-  },
+  // {
+  //   id: 4,
+  //   category: "frontend",
+  //   image: "/assets/project4.jpg",
+  //   title: "Dr Tabibi (Frontend)",
+  //   desc: "Professor of urology department of Shahid Beheshti University of Medical Sciences",
+  //   demo: "http://www.dr-alitabibi.ir",
+  //   github: "https://github.com/mansourlotfi",
+  // },
   {
     id: 5,
     category: "FullStack",
@@ -44,15 +44,26 @@ const data = [
     demo: "https://github.com/mansourlotfi/melon",
     github: "https://github.com/mansourlotfi/melon",
   },
+  // {
+  //   id: 6,
+  //   category: "frontend",
+  //   image: "/assets/project6.jpg",
+  //   title: "Shop-martio (Frontend)",
+  //   desc: "Online shop",
+  //   demo: "https://github.com/mansourlotfi/shop-martio",
+  //   github: "https://github.com/mansourlotfi/shop-martio",
+  // },
   {
-    id: 6,
-    category: "frontend",
-    image: "/assets/project6.jpg",
-    title: "Shop-martio (Frontend)",
-    desc: "Online shop",
-    demo: "https://github.com/mansourlotfi/shop-martio",
-    github: "https://github.com/mansourlotfi/shop-martio",
+    id: 7,
+    category: "FullStack",
+    image: "/assets/p7.jpeg",
+    title: "Blush Gallery (FullStack)",
+    desc: "Blush Gallery, an online store that sells high-quality and affordable cosmetics from various brands",
+    demo: "https://www.blushgallery.com",
+    github: "https://github.com/mansourlotfi/ecommerce-client",
   },
 ];
+
+const data = dataArray.reverse();
 
 export default data;
